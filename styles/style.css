@@ -1,0 +1,27 @@
+/* CSS RESET - do not remove */
+/*  Set the font */
+body {
+    font-size: 16px;
+    font-family: "Helvetica", sans-serif;
+}
+
+body {
+    background-color: #eee;
+}
+
+.container {
+    width: 60%;
+    background-color: #fff;
+    padding: 16px;
+    margin: 0 auto;
+}
+
+.container .hero {
+    padding: 128px 16px;
+    color: white;
+    text-align: center;
+}
+
+br {
+    border: 1px solid #000;
+}
